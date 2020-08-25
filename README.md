@@ -31,7 +31,7 @@ Git is a distributed version control system, meaning your local copy of code is 
 
 Every time you save your work, Git creates a commit. A commit is a snapshot of all your files at a point in time. If a file has not changed from one commit to the next, Git uses the previously stored file. This design differs from other systems which store an initial version of a file and keep a record of deltas over time.
 
-## Branches
+### Branches
 
 Each developer saves changes their own local code repository. As a result, you can have many different changes based off the same commit. Git provides tools for isolating changes and later merging them back together. Branches, which are lightweight pointers to work in progress, manage this separation. Once your work created in a branch is finished, merge it back into your team’s main (or master) branch.
 
@@ -41,19 +41,19 @@ Each developer saves changes their own local code repository. As a result, you c
 
 Everyone has their own local copy of code and can work simultaneously on their own branches. Git works when you’re offline since almost every operation is local.
 
-**Faster releases
+**Faster releases**
 
 Branches allow for flexible and simultaneous development. The main branch contains stable, high-quality code from which you release. Feature branches contain work in progress, which you merge into the main branch upon completion. By separating your release branch from development in progress, you can manage your stable code better and ship updates more quickly.
 
-**Built-in integration
+**Built-in integration**
 
 Due to its popularity, Git is integrated into most tools and products. Every major IDE has built-in Git support, and many tools that allow you to manage continuous integration, continuous deployment, automated testing, work item tracking, metrics, and reporting feature integration with Git. This integration simplifies your day to day workflow.
 
-**Strong community support
+**Strong community support**
 
 Git is open-source and has become the de facto standard for version control, and there is no shortage of tools and resources available for your team to leverage. The volume of community support for Git compared to other version control systems makes it easy to get help when you need it.
 
-**Git works with team
+**Git works with team**
 
 Using Git with a source code management tool can increase your team’s productivity by encouraging collaboration, enforcing policies, automating processes, and improving visibility and traceability of work. You may choose individual tools for version control, work item tracking, and continuous integration and deployment.
 
