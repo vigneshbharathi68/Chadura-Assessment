@@ -13,3 +13,6 @@ Linux has a number of different versions to suit any type of user. From new user
 - Ubuntu
 - Antergos
 - Solus
+
+#Task 2: Define Linux kernel?
+The kernel is a computer program at the core of a computer's operating system with complete control over everything in the system. It is an integral part of any operating system. It is the "portion of the operating system code that is always resident in memory". It facilitates interactions between hardware and software components. On most systems, it is one of the first programs loaded on startup (after the bootloader). It handles the rest of startup as well as input/output requests from software, translating them into data-processing instructions for the central processing unit. It handles memory and peripherals like keyboards, monitors, printers, and speakers.
