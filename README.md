@@ -64,19 +64,25 @@ Each developer saves changes their own local code repository. As a result, you c
 
 # Task 6. What is a low level language and high level language? Give examples.
 
-- We humans communicate with different languages. But how the computers communicate..? Do they use english,Tamil,Hindi, Telugu etc .., to communicate…? Absolutely a big NO . It knows only 0′s and 1′s . Computers can understand the instructions that are composed of 0′s and 1′s . Instructions given to the computer in 0’s and 1’s is known as binary language( also known as machine language).
+- We humans communicate with different languages. But how the computers communicate..? Do they use english,Tamil,Hindi, Telugu etc .., to communicate…? Absolutely a big NO . It knows only 0′s and 1′s . Computers can understand the instructions that are composed of 0′s and 1′s . Instructions given to the computer in 0’s and 1’s is known as **binary language( also known as machine language)**.
 
 - Then, as the programmers found writing code in binary language seems to be difficult, then they used a English like words to write a program. This language is known as **assembly language**.
 
 - These two , machine level language and the assembly level language together considered as the **low level languages**.
+**A function in hexadecimal representation of 32-bit x86 machine code to calculate the nth Fibonacci number:**
 
-- The programming languages which are machine independent and are written in a English language is known as the **high level languages**. some of the examples of high level language are c, c++,java…etc
+8B542408 83FA0077 06B80000 0000C383
+FA027706 B8010000 00C353BB 01000000
+B9010000 008D0419 83FA0376 078BD989
+C14AEBF1 5BC3
+
+- The programming languages which are machine independent and are written in a English language is known as the **high level languages**. some of the examples of high level language are **c, c++,java,php…etc**
 These high level languages will be converted into a machine readable form by a **compiler or interpreter**.
 
 **DIFFERENCE BETWEEN THE HIGH AND THE LOW LEVEL LANGUAGE:**
 
-- *Low level language* is machine readable form of program. Whereas the *high level language* will be in human readable form..
-- *Low level language* are difficult to write and compile but *high level language* are easy to write as well as compile..
-- *Low level language* are compact and require less memory space.. *high level language* uses compilers and interpreters which requires large memory space.
-- In *high level language* debugging ( troubleshooting) .I.e. Finding and correcting errors are easier whereas debugging in the *Low level language* is quite difficult.
-- *Low level language* coding and compiling is time consuming process whereas *high level language* coding and compiling is much easy and takes veryless time to compile.
+- ***Low level language*** is machine readable form of program. Whereas the ***high level language*** will be in human readable form..
+- ***Low level language*** are difficult to write and compile but ***high level language*** are easy to write as well as compile..
+- ***Low level language*** are compact and require less memory space.. ***high level language*** uses compilers and interpreters which requires large memory space.
+- In ***high level language*** debugging ( troubleshooting) .I.e. Finding and correcting errors are easier whereas debugging in the ***Low level language*** is quite difficult.
+- ***Low level language*** coding and compiling is time consuming process whereas ***high level language*** coding and compiling is much easy and takes veryless time to compile.
