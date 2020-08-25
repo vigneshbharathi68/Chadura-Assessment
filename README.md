@@ -71,9 +71,9 @@ Each developer saves changes their own local code repository. As a result, you c
 - These two , machine level language and the assembly level language together considered as the **low level languages**.
 **A function in hexadecimal representation of 32-bit x86 machine code to calculate the nth Fibonacci number:**
 
-8B542408 83FA0077 06B80000 0000C383
+  8B542408 83FA0077 06B80000 0000C383
 
-FA027706 B8010000 00C353BB 01000000
+  FA027706 B8010000 00C353BB 01000000
 
 B9010000 008D0419 83FA0376 078BD989
 
