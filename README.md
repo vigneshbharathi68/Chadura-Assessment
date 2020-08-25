@@ -72,8 +72,11 @@ Each developer saves changes their own local code repository. As a result, you c
 **A function in hexadecimal representation of 32-bit x86 machine code to calculate the nth Fibonacci number:**
 
 8B542408 83FA0077 06B80000 0000C383
+
 FA027706 B8010000 00C353BB 01000000
+
 B9010000 008D0419 83FA0376 078BD989
+
 C14AEBF1 5BC3
 
 - The programming languages which are machine independent and are written in a English language is known as the **high level languages**. some of the examples of high level language are **c, c++,java,php…etc**
