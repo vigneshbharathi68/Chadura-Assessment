@@ -14,5 +14,11 @@ Linux has a number of different versions to suit any type of user. From new user
 - Antergos
 - Solus
 
-#Task 2: Define Linux kernel?
-The kernel is a computer program at the core of a computer's operating system with complete control over everything in the system. It is an integral part of any operating system. It is the "portion of the operating system code that is always resident in memory". It facilitates interactions between hardware and software components. On most systems, it is one of the first programs loaded on startup (after the bootloader). It handles the rest of startup as well as input/output requests from software, translating them into data-processing instructions for the central processing unit. It handles memory and peripherals like keyboards, monitors, printers, and speakers.
+# Task 2: Define Linux kernel?
+The Linux kernel, developed by contributors worldwide, is a free and open-source, monolithic, modular (i.e., it supports the insertion and removal at runtime of loadable kernel objects), Unix-like operating system kernel.
+
+It is deployed on a wide variety of computing systems, such as embedded devices, mobile devices (including its use in the Android operating system), personal computers, servers, mainframes, and supercomputers.
+
+The Linux kernel was conceived and created in 1991 by Linus Torvalds for his personal computer and with no cross-platform intentions, but has since ported to a wide range of computer architectures. Notwithstanding this, the Linux kernel is highly optimized with the use of architecture specific instructions (ISA), therefore portability isn't as easy as it is with other kernels (e.g., with NetBSD, that as of 2019 supports 59 hardware platforms).
+
+Linux was soon adopted as the kernel for the GNU Operating System, which was created as an open source and free software, and based on UNIX as a by-product of the fallout of the Unix wars. Since then it has spawned a plethora of operating system distributions, commonly also called Linux, although, formally, the term "Linux" refers only to the kernel.
