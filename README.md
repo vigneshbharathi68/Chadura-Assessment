@@ -39,22 +39,22 @@ Each developer saves changes their own local code repository. As a result, you c
 
 **Simultaneous development**
 
-Everyone has their own local copy of code and can work simultaneously on their own branches. Git works when you’re offline since almost every operation is local.
+- Everyone has their own local copy of code and can work simultaneously on their own branches. Git works when you’re offline since almost every operation is local.
 
 **Faster releases**
 
-Branches allow for flexible and simultaneous development. The main branch contains stable, high-quality code from which you release. Feature branches contain work in progress, which you merge into the main branch upon completion. By separating your release branch from development in progress, you can manage your stable code better and ship updates more quickly.
+- Branches allow for flexible and simultaneous development. The main branch contains stable, high-quality code from which you release. Feature branches contain work in progress, which you merge into the main branch upon completion. By separating your release branch from development in progress, you can manage your stable code better and ship updates more quickly.
 
 **Built-in integration**
 
-Due to its popularity, Git is integrated into most tools and products. Every major IDE has built-in Git support, and many tools that allow you to manage continuous integration, continuous deployment, automated testing, work item tracking, metrics, and reporting feature integration with Git. This integration simplifies your day to day workflow.
+- Due to its popularity, Git is integrated into most tools and products. Every major IDE has built-in Git support, and many tools that allow you to manage continuous integration, continuous deployment, automated testing, work item tracking, metrics, and reporting feature integration with Git. This integration simplifies your day to day workflow.
 
 **Strong community support**
 
-Git is open-source and has become the de facto standard for version control, and there is no shortage of tools and resources available for your team to leverage. The volume of community support for Git compared to other version control systems makes it easy to get help when you need it.
+- Git is open-source and has become the de facto standard for version control, and there is no shortage of tools and resources available for your team to leverage. The volume of community support for Git compared to other version control systems makes it easy to get help when you need it.
 
 **Git works with team**
 
-Using Git with a source code management tool can increase your team’s productivity by encouraging collaboration, enforcing policies, automating processes, and improving visibility and traceability of work. You may choose individual tools for version control, work item tracking, and continuous integration and deployment.
+- Using Git with a source code management tool can increase your team’s productivity by encouraging collaboration, enforcing policies, automating processes, and improving visibility and traceability of work. You may choose individual tools for version control, work item tracking, and continuous integration and deployment.
 
-Use pull requests to discuss code changes with your team before merging them into your main branch. The discussions you have in pull requests are invaluable to ensuring code quality and increase knowledge across your team. Visual Studio Team Services offers a rich pull request experience where you can browse file changes, leave comments, inspect commits, view builds, and vote to approve the code.
+- Use pull requests to discuss code changes with your team before merging them into your main branch. The discussions you have in pull requests are invaluable to ensuring code quality and increase knowledge across your team. Visual Studio Team Services offers a rich pull request experience where you can browse file changes, leave comments, inspect commits, view builds, and vote to approve the code.
