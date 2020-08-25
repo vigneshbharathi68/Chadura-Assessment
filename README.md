@@ -15,10 +15,14 @@ Linux has a number of different versions to suit any type of user. From new user
 - Solus
 
 # Task 2: Define Linux kernel?
-The Linux kernel, developed by contributors worldwide, is a free and open-source, monolithic, modular (i.e., it supports the insertion and removal at runtime of loadable kernel objects), Unix-like operating system kernel.
+- The Linux kernel, developed by contributors worldwide, is a free and open-source, monolithic, modular (i.e., it supports the insertion and removal at runtime of loadable kernel objects), Unix-like operating system kernel.
 
-It is deployed on a wide variety of computing systems, such as embedded devices, mobile devices (including its use in the Android operating system), personal computers, servers, mainframes, and supercomputers.
+- It is deployed on a wide variety of computing systems, such as embedded devices, mobile devices (including its use in the Android operating system), personal computers, servers, mainframes, and supercomputers.
 
-The Linux kernel was conceived and created in 1991 by Linus Torvalds for his personal computer and with no cross-platform intentions, but has since ported to a wide range of computer architectures. Notwithstanding this, the Linux kernel is highly optimized with the use of architecture specific instructions (ISA), therefore portability isn't as easy as it is with other kernels (e.g., with NetBSD, that as of 2019 supports 59 hardware platforms).
+- The Linux kernel was conceived and created in 1991 by Linus Torvalds for his personal computer and with no cross-platform intentions, but has since ported to a wide range of computer architectures. Notwithstanding this, the Linux kernel is highly optimized with the use of architecture specific instructions (ISA), therefore portability isn't as easy as it is with other kernels (e.g., with NetBSD, that as of 2019 supports 59 hardware platforms).
 
-Linux was soon adopted as the kernel for the GNU Operating System, which was created as an open source and free software, and based on UNIX as a by-product of the fallout of the Unix wars. Since then it has spawned a plethora of operating system distributions, commonly also called Linux, although, formally, the term "Linux" refers only to the kernel.
+- Linux was soon adopted as the kernel for the GNU Operating System, which was created as an open source and free software, and based on UNIX as a by-product of the fallout of the Unix wars. Since then it has spawned a plethora of operating system distributions, commonly also called Linux, although, formally, the term "Linux" refers only to the kernel.
+
+# Task 3:  What is the difference between 32bit and 64bit computers? How much maximum memory access they can have?
+- Simply put, a ***64-bit processor is more capable than a 32-bit processor, because it can handle more data at once***. A 64-bit processor is capable of storing more computational values, including memory addresses, which means it’s able to access over four billion times the physical memory of a 32-bit processor. That’s just as big as it sounds
+- Here’s the key difference: 32-bit processors are perfectly capable of handling a limited amount of RAM **(in Windows, 4GB or less)**, and 64-bit processors are capable of utilizing much more.
