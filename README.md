@@ -1,5 +1,6 @@
 # Task 1. What is Linux?
 Just like Windows, iOS, and Mac OS, Linux is an operating system. In fact, one of the most popular platforms on the planet, Android, is powered by the Linux operating system. An operating system is software that manages all of the hardware resources associated with your desktop or laptop.To put it simply, the operating system manages the communication between your software and your hardware. Without the operating system (OS), the software wouldn?t function.
+
 **Linux is also distributed under an open source license. Open source follows these key tenants:**
 - The freedom to run the program, for any purpose.
 - The freedom to study how the program works, and change it to make it do what you wish.
@@ -26,6 +27,7 @@ Linux has a number of different versions to suit any type of user. From new user
 # Task 3.  What is the difference between 32bit and 64bit computers? How much maximum memory access they can have?
 - Simply put, a ***64-bit processor is more capable than a 32-bit processor, because it can handle more data at once***. A 64-bit processor is capable of storing more computational values, including memory addresses, which means it’s able to access over four billion times the physical memory of a 32-bit processor. That’s just as big as it sounds
 - Here’s the key difference: 32-bit processors are perfectly capable of handling a limited amount of RAM **(in Windows, 4GB or less)**, and 64-bit processors are capable of utilizing much more.
+
 # Task 4. What is git and what version is installed on your Linux machine?
 Git is a distributed version control system, meaning your local copy of code is a complete version control repository. These fully-functional local repositories make it is easy to work offline or remotely. You commit your work locally, and then sync your copy of the repository with the copy on the server. This paradigm differs from centralized version control where clients must synchronize code with a server before creating new versions of code.
 
@@ -58,4 +60,23 @@ Each developer saves changes their own local code repository. As a result, you c
 - Using Git with a source code management tool can increase your team’s productivity by encouraging collaboration, enforcing policies, automating processes, and improving visibility and traceability of work. You may choose individual tools for version control, work item tracking, and continuous integration and deployment.
 
 - Use pull requests to discuss code changes with your team before merging them into your main branch. The discussions you have in pull requests are invaluable to ensuring code quality and increase knowledge across your team. Visual Studio Team Services offers a rich pull request experience where you can browse file changes, leave comments, inspect commits, view builds, and vote to approve the code.
-> I don’t have **Linux OS**. So, I only know the basics in Linux. 
+> I don’t have **Linux OS**. So, I only know the basics in Linux. I have used during my college days.I used the ubuntu version I have preferred that version because it's for beginners in order to appropriate.
+
+# Task 6. What is a low level language and high level language? Give examples.
+
+- We humans communicate with different languages. But how the computers communicate..? Do they use english,Tamil,Hindi, Telugu etc .., to communicate…? Absolutely a big NO . It knows only 0′s and 1′s . Computers can understand the instructions that are composed of 0′s and 1′s . Instructions given to the computer in 0’s and 1’s is known as binary language( also known as machine language).
+
+- Then, as the programmers found writing code in binary language seems to be difficult, then they used a English like words to write a program. This language is known as **assembly language**.
+
+- These two , machine level language and the assembly level language together considered as the **low level languages**.
+
+- The programming languages which are machine independent and are written in a English language is known as the **high level languages**. some of the examples of high level language are c, c++,java…etc
+These high level languages will be converted into a machine readable form by a **compiler or interpreter**.
+
+**DIFFERENCE BETWEEN THE HIGH AND THE LOW LEVEL LANGUAGE:**
+
+- *Low level language* is machine readable form of program. Whereas the *high level language* will be in human readable form..
+- *Low level language* are difficult to write and compile but *high level language* are easy to write as well as compile..
+- *Low level language* are compact and require less memory space.. *high level language* uses compilers and interpreters which requires large memory space.
+- In *high level language* debugging ( troubleshooting) .I.e. Finding and correcting errors are easier whereas debugging in the *Low level language* is quite difficult.
+- *Low level language* coding and compiling is time consuming process whereas *high level language* coding and compiling is much easy and takes veryless time to compile.
